@@ -29,4 +29,4 @@ Snapshot
 You can take a snapshot of the current frame of the video by clicking the "Take Snapshot" button.
 
 ## License
-This component is licensed under the MIT License.
+This component is licensed under the MIT License. View LICENSE for more information.
